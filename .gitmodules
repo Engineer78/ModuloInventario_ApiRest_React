@@ -1,0 +1,6 @@
+[submodule "Submodulo_Backend_ApiRest"]
+	path = Submodulo_Backend_ApiRest
+	url = https://github.com/Engineer78/Submodulo_Backend_ApiRest.git
+[submodule "Submodulo_Frontend_React"]
+	path = Submodulo_Frontend_React
+	url = https://github.com/Engineer78/Submodulo_Frontend_React.git
